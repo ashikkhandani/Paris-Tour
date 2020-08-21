@@ -1,0 +1,54 @@
+body   {
+         background-color:#e5f4f9;
+     
+        }
+ 
+   .h  { 
+         font-family: 'Courgette', cursive;
+        
+        }
+
+    p  {
+         font-family: 'Times New Roman', Times, serif;
+       
+        }
+
+  .bl  {
+         font-family: 'Kalam', cursive;
+         font-family: 'Shadows Into Light', cursive;
+         text-align: center;
+
+        }
+
+    img    {
+             justify-content: space-around; 
+             border: solid;
+             border-color:rgba(64, 64, 235, 0.924);
+           
+            }
+
+    .red   {
+             color:red;
+            }
+
+    .blue  {
+             color: blue;
+            
+            }
+        
+
+    .link:hover {
+                 color:green;
+        
+                }
+
+    ul.a   {
+             list-style-type: disc;
+
+            }     
+
+
+    ul.b   {
+             list-style-type: square;
+            
+            }
